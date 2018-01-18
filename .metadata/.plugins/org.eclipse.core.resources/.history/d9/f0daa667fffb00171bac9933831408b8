@@ -1,0 +1,13 @@
+package io.javabrains.springstarter.topic;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TopicController {
+	
+	@RequestMapping("/topics")
+	public String getTopics() {
+		return "All Topics";
+	}
+
+}

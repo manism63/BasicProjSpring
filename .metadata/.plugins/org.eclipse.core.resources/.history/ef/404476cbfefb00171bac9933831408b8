@@ -1,0 +1,5 @@
+package io.javabrains.springstarter.hello;
+
+public class HelloController {
+
+}

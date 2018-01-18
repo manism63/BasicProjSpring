@@ -1,0 +1,5 @@
+package io.javabrains.springstarter.topic;
+
+public class Topic {
+
+}
